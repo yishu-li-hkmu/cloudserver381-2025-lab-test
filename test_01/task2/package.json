@@ -1,0 +1,14 @@
+{
+    "name": "lab_test_1_task_2",
+    "description": "Express.js App",
+    "author": "", 
+    "version": "0.0.1",
+    "dependencies": {
+        "node": "",
+        "express": ""
+    },
+    "engine": "*",
+    "scripts": {
+        "start": ""
+    }
+}
