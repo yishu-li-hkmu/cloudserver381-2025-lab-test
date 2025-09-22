@@ -3,7 +3,7 @@ const app = express()
 const port = process.env.PORT || 8099
 
 app.get('/', (req, res) => {
-  res.send('Connection successfully for my task 2!')
+  res.send('Connection established successfully for Task 2!')
 })
 
 app.listen(port, () => {
