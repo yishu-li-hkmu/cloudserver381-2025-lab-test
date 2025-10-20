@@ -1,0 +1,13 @@
+{
+    "name": "server",
+    "description": "Lab Test 02 Task 2",
+    "author": "Cloud381 Student",
+    "version": "0.0.1",
+    "dependencies": {
+        "express": "*"
+    },
+    "engine": "*",
+    "scripts": {
+        "start": "node server"
+    }
+}

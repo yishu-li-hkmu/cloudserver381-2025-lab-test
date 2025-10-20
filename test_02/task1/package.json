@@ -1,0 +1,14 @@
+{
+    "name": "Test",
+    "description": "Lab Test_02 task1",
+    "author": "",
+    "version": "0.0.1",
+    "dependencies": {
+        "": ""
+    },
+    "engine": "node >= 16.0.0",
+    "scripts": {
+        "start": "node server"
+    }
+}
+
